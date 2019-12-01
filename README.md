@@ -6,5 +6,5 @@ Preview:
 
 https://youtu.be/ajDu-W7UcTY
 
-[![Safee Preview](https://img.youtube.com/ajDu-W7UcTY
+[![Safee Preview](https://img.youtube.com/vi/ajDu-W7UcTY/0.jpg
 )](https://youtu.be/ajDu-W7UcTY)
